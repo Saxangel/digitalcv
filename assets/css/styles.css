@@ -213,7 +213,6 @@ img {
 .home {
   height: calc(100vh - 3rem);
   row-gap: 1rem;
-  color: #000;
 }
 .home__data {
   align-self: center;
